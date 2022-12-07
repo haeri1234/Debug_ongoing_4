@@ -1,3 +1,3 @@
-0001/동네질문1/동작구/user001/동네질문1내용/10/5,
-0002/동네질문2/동작구/user002/동네질문2내용/8/4,
-0003/동네질문3/동작구/user003/동네질문3내용/6/3,
+0001/LifeQue1/sangdo 1-dong/user001/LifeQue1Content/10/5,
+0002/LifeQue2/sangdo 1-dong/user002/LifeQue2Content/8/4,
+0003/LifeQue3/sangdo 1-dong/user003/LifeQue3Content/6/3,
