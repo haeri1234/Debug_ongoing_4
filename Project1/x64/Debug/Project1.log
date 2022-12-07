@@ -1,0 +1,10 @@
+﻿  LifeQueArticleLoad.cpp
+  LifeQueListLoad.cpp
+  SecondHandArticleLoad.cpp
+  SecondHandListLoad.cpp
+  ViewManager.cpp
+  코드를 생성하고 있습니다...
+C:\Users\82107\source\repos\carrot 16\Project1\SecondHandListLoad.cpp(12): error C4700: 초기화되지 않은 'shList' 지역 변수를 사용했습니다.
+C:\Users\82107\source\repos\carrot 16\Project1\SecondHandArticleLoad.cpp(12): error C4700: 초기화되지 않은 'shArticle' 지역 변수를 사용했습니다.
+C:\Users\82107\source\repos\carrot 16\Project1\LifeQueListLoad.cpp(10): error C4700: 초기화되지 않은 'lfList' 지역 변수를 사용했습니다.
+C:\Users\82107\source\repos\carrot 16\Project1\LifeQueArticleLoad.cpp(12): error C4700: 초기화되지 않은 'lfArticle' 지역 변수를 사용했습니다.
